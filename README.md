@@ -1,5 +1,7 @@
 :link: [Live Demo](https://pvk13797.github.io/Retrieve-JSON-Data-Using-Angular/)
 
+![](val.png)
+
 # JsonAngular
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.1.
